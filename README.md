@@ -29,5 +29,5 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - Github: https://github.com/AmberDiehl1/Work-Day-Schedule
 - Website: https://amberdiehl1.github.io/Work-Day-Schedule/
 
-![alt text](images/Website_preview.png)
+![alt text](./Images/Website_preview.png)
 
